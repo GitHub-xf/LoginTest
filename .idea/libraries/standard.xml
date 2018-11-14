@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="standard">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../LoginTest/web/lib/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../LoginTest/web/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../LoginTest/web/lib/mysql-connector-java-5.1.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../LoginTest/web/lib/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../LoginTest/web/lib/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../LoginTest/web/lib/druid-1.0.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../LoginTest/web/lib/druid-1.0.15-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
